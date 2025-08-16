@@ -1,0 +1,62 @@
+/*Header*/    
+    #offcanvasNavbar {
+        background: var(--azul-vm) !important;
+        font-weight: 700 !important;
+    }
+    .dropdown-item:focus, .dropdown-item:hover {
+        font-weight: 700 !important;
+        background: var(--amarelo-vm) !important;
+    }
+    .btn-close {
+        --bs-btn-close-color: #ffffff !important;
+    }
+    /*Efeito do header secundario*/
+        .HeaderSecundario {
+            opacity: 0;
+            pointer-events: none;
+            transition: all .2s;
+        }
+        .HeaderSecundario.active{
+            pointer-events: auto;
+            opacity: 1;
+        }
+    /*Efeito do header secundario*/
+/*Header*/
+/*Icons de rede social*/
+    #icons02 {
+        background: var(--bs-white);
+        border-radius: 20px;
+        padding: .5rem;
+    }
+    #icons02:hover {
+        background: var(--amarelo-vm) !important;
+        fill: var(--bs-white) !important;
+    }
+/*Icons de rede social*/
+/*Contato*/
+    .SectionContato {
+        height: 20.5rem;
+    }
+/*Contato*/    
+/*Contato redes sociais*/
+    #icons03 {
+        background: var(--bs-white);
+        border-radius: 30px;
+        padding: .5rem;
+        transition: all .5s;
+        cursor: pointer;
+    }
+    #icons03:hover {
+        background: var(--amarelo-vm);
+        fill: var(--bs-white) !important;
+    }
+    #IconsHeader {
+        gap: 1rem;
+    }
+/*Contato redes sociais*/  
+#pwrcrm {
+    width: 100% !important;
+}
+#pwrcrmform {
+    max-width: none !important;
+}

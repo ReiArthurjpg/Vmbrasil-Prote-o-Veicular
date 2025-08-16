@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font-family: "Montserrat", system-ui;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-weight: 600;
+    list-style: none;
+}
+/*Vareaveis*/
+    :root {
+        --amarelo-vm: #F0A820;
+        --azul-vm: #001F8F;
+        --background-vendx: linear-gradient(70deg, #F0A820 7%, #F0A820 100%);
+        --background-vendx02: linear-gradient(70deg, #8766f2 7%, #fc6aed 100%);
+    }
+    #Img {
+        width: 40% !important;
+        box-shadow: 5px 10px 30px #001F8F;
+        border-radius: 15px;
+    }
+    p, h1, h3, h2 {
+        margin: 0px;
+    }
+/*Vareaveis*/
+/*Button*/
+    #Btnconato03 {
+        border-radius: 20px;
+        padding: .5rem 2rem;
+    }
+    /*Preto*/
+        #BtnContato {
+            padding: 0.4rem 3.5rem;
+            background: var(--amarelo-vm) !important;
+            border-radius: 15px;
+        }
+        #BtnContato:hover{
+            background: var(--bs-white) !important;
+            color: var(--bs-black) !important;
+        }
+    /*Preto*/
+    /*Background*/
+        .Btn01 {
+            border-radius: 15px;
+            padding: .2rem 2rem;
+            transition: all .5s;
+            color: var(--bs-white) !important;
+            background: linear-gradient(135deg, var(--azul-vm) 0%, var(--azul-vm) 100%) !important;
+        }
+        .Btn01:hover {
+            border-radius: 0px;
+        }
+    /*Background*/
+/*Button*/
