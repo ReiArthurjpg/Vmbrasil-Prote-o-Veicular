@@ -31,12 +31,12 @@
             <!--Apresentação-->
                 <section id="paddingprimario" style="padding: 5rem 0px 16rem 0px;" class="container-md d-flex justify-content-between" >
                     <!--Estrutura texto-->
-                        <article class="d-flex flex-column text-white">
+                        <article id="Mobileprimeira2" class="d-flex flex-column text-white">
                             <!--Titulo-->
-                                <h1 style="padding-bottom: 2rem;font-weight: 700; color: var(--amarelo-vm);">Contato</h1>
+                                <h1 id="w-100" style="padding-bottom: 2rem;font-weight: 700; color: var(--amarelo-vm);">Contato</h1>
                             <!--Titulo-->
                             <!--Texto-->
-                                <strong ><p style="font-size: 1.1rem">Consulte-nos e tire suas dúvidas.</p></strong>
+                                <strong ><p id="w-100" style="font-size: 1.1rem">Consulte-nos e tire suas dúvidas.</p></strong>
                             <!--Texto-->
                         </article>
                     <!--Estrutura texto-->
@@ -46,7 +46,7 @@
     <!--Container principal das paginas estaticas-->  
     <main>
         <!--Equipe-->
-            <section class="p-5">
+            <section id="paddingprimario2" class="p-5">
                 <article>
                     <!--Texto-->
                     <div>
@@ -69,9 +69,9 @@
             <section>
                 <article>
                     <!--Cards-->
-                        <div id="SessaoCards" class="d-flex justify-content-center container-md p-2">
+                        <div id="cardscontato" class="d-flex justify-content-center container-md p-2">
                             <!--Consultoria-->
-                            <div id="Cards07" class="card  d-flex justify-content-center align-items-center text-center w-50">
+                            <div id="Cards07" class="card d-flex justify-content-center align-items-center text-center w-50 cardscontato">
                                 <a href="mailto:contato@vendexcompany.com.br" style="text-decoration: none !important;" href="http://" target="_blank" rel="noopener noreferrer">
                                     <br><br>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="141" height="110.786" viewBox="0 0 141 110.786" > 
@@ -93,7 +93,7 @@
                             </div>
                         <!--Consultoria-->
                         <!--Ads-->
-                            <div id="Cards08" class="card  d-flex justify-content-center align-items-center text-center w-50">
+                            <div id="Cards08" class="card  d-flex justify-content-center align-items-center text-center w-50 cardscontato">
                                 <a href="https://api.whatsapp.com/send/?phone=5511930115834&text&type=phone_number&app_absent=0"  style="text-decoration: none !important;" target="_blank" rel="noopener noreferrer">
                                     <br><br>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="107.999" height="107.994" viewBox="0 0 107.999 107.994">
@@ -116,41 +116,41 @@
                            </div>
                         <!--Ads-->
                         <!--Automações-->
-                            <div id="Cards09" class="card bg-black d-flex justify-content-center align-items-center text-center w-50">
+                            <div id="Cards09" class="card d-flex justify-content-center align-items-center text-center w-50 cardscontato">
                                 <br><br> 
                                 <svg xmlns="http://www.w3.org/2000/svg" width="108.152" height="108.152" viewBox="0 0 108.152 108.152">
                                     <g id="time" transform="translate(-0.75 -0.75)">
-                                        <path id="Caminho_194" data-name="Caminho 194" d="M54.826,107.4A52.576,52.576,0,1,1,107.4,54.826,52.576,52.576,0,0,1,54.826,107.4Zm0-97.641A45.065,45.065,0,1,0,99.891,54.826,45.065,45.065,0,0,0,54.826,9.761Z" transform="translate(0 0)" fill="#b56afc" stroke="#b56afc" stroke-width="3"></path>
-                                        <path id="Caminho_195" data-name="Caminho 195" d="M37.869,64.207,16.875,43.213V7.875h7.511V40.1L43.163,58.909Z" transform="translate(34.196 13.152)" fill="#b56afc" stroke="#b56afc" stroke-width="3"></path>
+                                        <path id="Caminho_194" data-name="Caminho 194" d="M54.826,107.4A52.576,52.576,0,1,1,107.4,54.826,52.576,52.576,0,0,1,54.826,107.4Zm0-97.641A45.065,45.065,0,1,0,99.891,54.826,45.065,45.065,0,0,0,54.826,9.761Z" transform="translate(0 0)" fill="#001F8F" stroke="#001F8F" stroke-width="3"></path>
+                                        <path id="Caminho_195" data-name="Caminho 195" d="M37.869,64.207,16.875,43.213V7.875h7.511V40.1L43.163,58.909Z" transform="translate(34.196 13.152)" fill="#001F8F" stroke="#001F8F" stroke-width="3"></path>
                                     </g>
                                 </svg>
                                 <div class="card-body">
                                     <span class="CardTexto">
-                                        <h5 class="card-title">Horário</h5>
+                                        <h5 class="card-title text-black">Horário</h5>
                                     </span>
                                     <span style="font-size: .8rem;">
-                                        <p class="text-light">Seg.-Sex: 8:00 – 18:00</p>
-                                        <p class="text-light">Sáb: 8:00 – 13:00</p>
+                                        <p class="text-black">Seg.-Sex: 8:00 – 18:00</p>
+                                        <p class="text-black">Sáb: 8:00 – 13:00</p>
                                     </span>
                                 </div>
                                 <br>
                             </div> 
                         <!--Automações--> 
                         <!--Automações-->
-                            <div id="Cards09" class="card bg-black d-flex justify-content-center align-items-center text-center w-50">
+                            <div id="Cards09" class="card d-flex justify-content-center align-items-center text-center w-50 cardscontato">
                                 <a href="https://www.google.com/maps/place/Vendex+Company/@-22.875174,-47.033502,11z/data=!4m6!3m5!1s0x94c8c5cef714d03f:0xbeac7828c442242e!8m2!3d-22.8751736!4d-47.0335019!16s%2Fg%2F11y1d1vy9s?hl=pt-BR&entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D" style="text-decoration: none !important;" target="_blank" rel="noopener noreferrer">
                                     <br><br> 
-                                    <svg class="Mpascards" xmlns="http://www.w3.org/2000/svg" width="105" height="105" viewBox="0 0 24 24" style="fill: #b56afc;transform: ;msFilter;">
+                                    <svg class="Mpascards" xmlns="http://www.w3.org/2000/svg" width="105" height="105" viewBox="0 0 24 24" style="fill: #001F8F;transform: ;msFilter;">
                                         <path d="m12 17 1-2V9.858c1.721-.447 3-2 3-3.858 0-2.206-1.794-4-4-4S8 3.794 8 6c0 1.858 1.279 3.411 3 3.858V15l1 2zM10 6c0-1.103.897-2 2-2s2 .897 2 2-.897 2-2 2-2-.897-2-2z"></path>
                                         <path d="m16.267 10.563-.533 1.928C18.325 13.207 20 14.584 20 16c0 1.892-3.285 4-8 4s-8-2.108-8-4c0-1.416 1.675-2.793 4.267-3.51l-.533-1.928C4.197 11.54 2 13.623 2 16c0 3.364 4.393 6 10 6s10-2.636 10-6c0-2.377-2.197-4.46-5.733-5.437z"></path>
                                     </svg>
                                     <div class="card-body">
                                         <span class="CardTexto">
-                                            <h5 class="card-title">Endereço</h5>
+                                            <h5 class="card-title text-black">Endereço</h5>
                                         </span>
                                         <span style="font-size: .7rem;">
-                                            <p class="text-light">R. Benedito Ferreira da Fonseca, 57 – Jardim</p>
-                                            <p class="text-light">Conceição, Campinas – SP, 13091-030</p>
+                                            <p class="text-black">R. Benedito Ferreira da Fonseca, 57 – Jardim</p>
+                                            <p class="text-black">Conceição, Campinas – SP, 13091-030</p>
                                         </span>
                                     </div>
                                     <br>
