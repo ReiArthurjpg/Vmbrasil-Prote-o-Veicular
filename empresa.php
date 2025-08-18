@@ -98,10 +98,10 @@
                 <?php echo $contatoo ?>
             <!--Contato-->
             <!--Sobre Nós-->
-                <section>
+                <section class="textocontatomobile">
                     <article class="container-md d-flex justify-content-evenly align-items-center">
                         <!--Img-->
-                            <img class="w-50" id="Img" src="./img/empresa-nossa-historia.jpg" alt="Imagem 01">
+                            <img class="imgdesktop w-50" id="Img" src="./img/empresa-nossa-historia.jpg" alt="Imagem 01">
                         <!--Img-->
                         <!--Texto-->
                             <span id="SessaoTexto" class="w-50" style="color: var(--roxo-vendex);">
@@ -110,12 +110,15 @@
                                     <h3 style="color: var(--azul-vm); font-weight: 750;">COM A EFICIÊNCIA!</h3>
                                 <!--Titulo-->
                                 <br>
+                                <!--Img-->
+                                    <img class="imgmobile w-50" src="./img/empresa-nossa-historia.jpg" alt="Imagem 01">
+                                <!--Img-->
                                 <!--Legenda-->
-                                    <span>
-                                        <p>Nossa associação valoriza o comprometimento com os objetivos a que se propõe realizar e os desafios são o que nos impulsiona para um contínuo aperfeiçoamento, para oferecer as melhores soluções com os melhores rendimentos, uma característica de nossa trajetória.</p>
-                                        <p>A VM Brasil não é só uma proteção veicular. É um movimento de confiança, transparência e cuidado com o seu bem mais valioso.</p>
+                                    <span class="textocontatomobile">
+                                        <p id="w-100">Nossa associação valoriza o comprometimento com os objetivos a que se propõe realizar e os desafios são o que nos impulsiona para um contínuo aperfeiçoamento, para oferecer as melhores soluções com os melhores rendimentos, uma característica de nossa trajetória.</p>
+                                        <p id="w-100">A VM Brasil não é só uma proteção veicular. É um movimento de confiança, transparência e cuidado com o seu bem mais valioso.</p>
                                             <br>
-                                        <p>VM Brasil Proteção Veicular você mais que <strong>PROTEGIDO!</strong></p>
+                                        <p id="w-100">VM Brasil Proteção Veicular você mais que <strong>PROTEGIDO!</strong></p>
                                     </span>
                                 <!--Legenda-->
                                 <br>
