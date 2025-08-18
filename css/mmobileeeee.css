@@ -1,0 +1,109 @@
+.imgmobile {
+        display: none !important;
+    }
+    .brmobile {
+        display: none !important;
+    }
+    #carouselCards {
+        display: none !important;
+    }
+    .textodesktop {
+        display: block !important;
+    }
+    .textomobile {
+        display: none !important;
+    }
+@media (max-width: 900px) {
+    .navbar-brand {
+        width: 60% !important;
+    }
+    #Mobileprimeira {
+        justify-content: center;
+        align-items: center;
+        height: 79vh;
+    }
+    .brmobile {
+        display: block !important;
+    }
+    #w-100 {
+        text-align: center;
+        width: 100% !important;
+    }
+    .imgdesktop {
+        display: none !important;
+    }
+    .imgmobile {
+        display: block !important;
+        width: 80% !important;
+        box-shadow: 5px 10px 30px #001F8F;
+        border-radius: 15px;
+    }
+    #padding {
+        padding: 1rem 0px !important;
+    }
+    #heigth {
+        flex-direction: column !important;
+    }
+    #IconDiferenciais03, #IconDiferenciais02, #IconDiferenciais04, #IconDiferenciais {
+        flex-direction: column;
+    }
+    #SessaoTexto {
+        width: 100% !important;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    #SessaoTexto1 {
+        width: 100% !important;
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+    }
+    #SessaoCards {
+        display: none !important;
+    }
+    #Cards {
+        width: 100% !important;
+    }
+    #carouselCards {
+        display: block !important;
+    }
+}
+@media (max-width: 900px) {
+    #Mobilerede {
+        flex-direction: column;
+    }
+    #Mobilerede2 {
+        flex-direction: column !important;
+        text-align: center;
+        gap: 2rem;
+    }
+    #heigthmobile {
+        height: auto !important;
+    }
+    #Mobileimgcontato {
+        position: static !important;
+    }
+    .textodesktop {
+        display: none !important;
+    }
+    .textomobile {
+        display: block !important; 
+    }
+    .textocontatomobile {
+        padding: 1rem 0px !important;
+    }
+    #IconsHeader {
+        padding: 0px !important;
+    }
+    #paddingprimario {
+        padding: 0rem 0px 0px 0px !important;
+    }
+    #Mobileprimeira2 {
+        justify-content: center;
+        align-items: center;
+        height: 55vh;
+    }
+}

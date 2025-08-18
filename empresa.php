@@ -29,14 +29,14 @@
                 <?php echo $headersecundario ?>
             <!--Header Primario-->
             <!--Apresentação-->
-                <section style="padding: 5rem 0px 13rem 0px;" class="container-md d-flex justify-content-between" id="ContainerApresentacao">
+                <section id="paddingprimario" style="padding: 5rem 0px 13rem 0px;" class="container-md d-flex justify-content-between" id="ContainerApresentacao">
                     <!--Estrutura texto-->
-                        <article class="d-flex flex-column text-white">
+                        <article id="Mobileprimeira2" class="d-flex flex-column text-white">
                             <!--Titulo-->
-                                <h1 style="padding-bottom: 2rem; font-weight: 700; color: var(--amarelo-vm);">Nossa Associação</h1>
+                                <h1 id="w-100" style="padding-bottom: 2rem; font-weight: 700; color: var(--amarelo-vm);">Nossa Associação</h1>
                             <!--Titulo-->
                             <!--Texto-->
-                                <p class="w-50" style="font-size: 1.1rem">A VM Brasil Proteção Veicular é uma associação consolidada no mercado há mais de 6 anos, crescendo com força no Nordeste e conquistando espaço em todo o Brasil. Nascemos com o compromisso de oferecer uma proteção acessível, eficiente e humanizada para quem valoriza segurança e tranquilidade ao dirigir.</p></strong>
+                                <p id="w-100" class="w-50" style="font-size: 1.1rem">A VM Brasil Proteção Veicular é uma associação consolidada no mercado há mais de 6 anos, crescendo com força no Nordeste e conquistando espaço em todo o Brasil. Nascemos com o compromisso de oferecer uma proteção acessível, eficiente e humanizada para quem valoriza segurança e tranquilidade ao dirigir.</p></strong>
                             <!--Texto-->
                         </article>
                     <!--Estrutura texto-->
