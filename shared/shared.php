@@ -37,24 +37,18 @@
                                                             <!--Lista Drop-->
                                                                 <li class="nav-item dropdown">
                                                                 <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                                                    Serviços
+                                                                    Planos
                                                                 </a>
                                                                 <!--Menu Drop-->
                                                                     <ul class="dropdown-menu" id="offcanvasNavbar">
                                                                         <li>
-                                                                            <a class="dropdown-item text-white" href="./gdm.php">Gestão de Marketplace</a>
+                                                                            <a class="dropdown-item text-white" target="_blank" href="https://wa.me/558299940437?text=Oi%2C%20tudo%20bem%3F%20Vi%20seu%20an%C3%BAncio%20no%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.">Plano Ouro</a>
                                                                         </li>
                                                                         <li>
-                                                                            <a class="dropdown-item text-white" href="./CDV.php">Consultoria de Venda</a>
+                                                                            <a class="dropdown-item text-white" target="_blank" href="https://wa.me/558299940437?text=Oi%2C%20tudo%20bem%3F%20Vi%20seu%20an%C3%BAncio%20no%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.">Plano Diamante</a>
                                                                         </li>
                                                                         <li>
-                                                                            <a class="dropdown-item text-white" href="./ads.php">Gestão de Ads</a>
-                                                                        </li>
-                                                                        <li>
-                                                                            <a class="dropdown-item text-white" href="./auto.php">Automações</a>
-                                                                        </li>
-                                                                        <li>
-                                                                            <a class="dropdown-item text-white" href="./Tp.php">Tráfego Pago</a>
+                                                                            <a class="dropdown-item text-white" target="_blank" href="https://wa.me/558299940437?text=Oi%2C%20tudo%20bem%3F%20Vi%20seu%20an%C3%BAncio%20no%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.">Plano Prata</a>
                                                                         </li>
                                                                     </ul>
                                                                 <!--Menu Drop-->
