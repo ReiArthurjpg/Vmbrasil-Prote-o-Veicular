@@ -47,7 +47,7 @@
     <!--Conteudo principal-->
         <main>
             <!--Serviços-->
-                <section class="p-5">
+                <section id="paddingprimario2" class="p-5">
                     <article>
                         <!--Texto-->
                         <div>
@@ -72,15 +72,16 @@
                             <span id="SessaoTexto" class="w-50" style="color: var(--roxo-vendex);">
                                 <!--Titulo-->
                                     <h4 >Sobre nós</h4>
-                                    <h3 style="color: var(--azul-vm); font-weight: 750;">CONTAMOS COM UM TIME DE</h3> 
-                                    <h3 style="color: var(--azul-vm); font-weight: 750;">ESPECIALISTAS PARA</h3>
-                                    <h3 style="color: var(--azul-vm); font-weight: 750;">GARANTIR SUA SEGURANÇA!</h3>
+                                    <h3 id="w-100" style="color: var(--azul-vm); font-weight: 750;">CONTAMOS COM UM TIME DE ESPECIALISTAS PARA GARANTIR SUA SEGURANÇA!</h3>
                                 <!--Titulo-->
                                 <br>
+                                <!--Img-->
+                                    <img class="imgmobile w-50" src="./img/empresaSobrenos.webp" alt="Imagem 01">
+                                <!--Img-->
                                 <!--Legenda-->
-                                    <span style="font-size: .95rem;">
-                                        <p>Hoje, temos orgulho em dizer que a VM Brasil está cadastrada na SUSEP – um marco que reforça nossa credibilidade e responsabilidade diante dos nossos associados.</p>
-                                     <P>Nosso time é formado por consultores preparados e comprometidos, prontos para oferecer a melhor orientação e atendimento do primeiro contato até o pós-venda. Contamos também com a confiança e representatividade da nossa embaixadora, a apresentadora Jaqueline Cruz, que leva a força da nossa marca para todo o país.</P>
+                                    <span class="textocontatomobile" style="font-size: .95rem;">
+                                        <p id="w-100">Hoje, temos orgulho em dizer que a VM Brasil está cadastrada na SUSEP – um marco que reforça nossa credibilidade e responsabilidade diante dos nossos associados.</p>
+                                        <P id="w-100">Nosso time é formado por consultores preparados e comprometidos, prontos para oferecer a melhor orientação e atendimento do primeiro contato até o pós-venda. Contamos também com a confiança e representatividade da nossa embaixadora, a apresentadora Jaqueline Cruz, que leva a força da nossa marca para todo o país.</P>
                                     </span>
                                 <!--Legenda-->
                                 <br>
@@ -88,11 +89,11 @@
                             </span>    
                         <!--Texto-->
                         <!--Img-->
-                            <img class="w-50" id="Img" src="./img/empresaSobrenos.webp" alt="Imagem 01">
+                            <img class="imgdesktop w-50" id="Img" src="./img/empresaSobrenos.webp" alt="Imagem 01">
                         <!--Img-->
                     </article>
                 </section>
-                <br><br><br>
+                <br id="SessaoCards"><br id="SessaoCards"><br>
             <!--Contato-->
                 <?php echo $contatoo ?>
             <!--Contato-->
