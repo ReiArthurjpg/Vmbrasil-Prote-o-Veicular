@@ -1,0 +1,228 @@
+/*Index*/
+    #Arrow {
+        position: relative;
+        animation: mymove 2s infinite;
+    }
+    @keyframes mymove {
+        0% {top: 0px;}
+        25% {top: 25px;}
+        50% {top: 0px; }
+    }
+/*Index*/  
+/*Cards*/
+    #SessaoCards {
+        gap: .8rem;
+    }
+    #Caminho_184 {
+        fill: #F0A820 !important;
+    }
+    #Cards, #Cards02, #Cards03, #Cards04, #Cards05, #Cards06, #Cards07, #Cards08, #Cards09{
+        border: 3px solid #000000 !important;
+        cursor: pointer;
+    }
+    #Cards:hover {
+        background: var(--azul-vm) !important;
+        .CardTexto {
+            color: var(--bs-white) !important;
+        }
+        #Caminho_80 {
+            fill: var(--bs-white) !important;
+        }
+        #LinkCards {
+            background: var(--bs-white) !important;
+            color: var(--bs-black);
+        }
+    }
+    #Cards02:hover {
+        background: var(--background-vendx02) !important;
+        .CardTexto {
+            color: var(--bs-white) !important;
+        }
+        #LinkCards {
+            background: var(--bs-white) !important;
+            color: var(--bs-black);
+        }
+        .cls-1 {
+            fill: var(--bs-white) !important;
+        }
+    }
+    #Cards03:hover {
+        background: var(--background-vendx02) !important;
+        .CardTexto {
+            color: var(--bs-white) !important;
+        }
+        #LinkCards {
+            background: var(--bs-white) !important;
+            color: var(--bs-black);
+        }
+        .lupa {
+            fill: var(--bs-white) !important;
+        }
+    }
+    #Cards04:hover {
+        background: var(--background-vendx02) !important;
+        .CardTexto {
+            color: var(--bs-white) !important;
+        }
+        #LinkCards {
+            background: var(--bs-white) !important;
+            color: var(--bs-black);
+        }
+        #Caminho_86 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_87 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_88 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_89 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_90 {
+            fill: var(--bs-white) !important;
+        }
+    }
+    #Cards05:hover {
+        background: var(--background-vendx02) !important;
+        .CardTexto {
+            color: var(--bs-white) !important;
+        }
+        #LinkCards {
+            background: var(--bs-white) !important;
+            color: var(--bs-black);
+        }
+        #Caminho_102 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_103 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_104 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_105 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_106 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_107 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_108 {
+            fill: var(--bs-white) !important;
+        }
+    }
+    #Cards07:hover {
+        background: var(--background-vendx02) !important;
+        .CardTexto {
+            color: var(--bs-white) !important;
+        }
+        #LinkCards {
+            background: var(--bs-white) !important;
+            color: var(--bs-black);
+        }
+        #Caminho_189 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_190 {
+            fill: var(--bs-white) !important;
+        }
+    }
+    #Cards08:hover {
+        background: var(--background-vendx02) !important;
+        .CardTexto {
+            color: var(--bs-white) !important;
+        }
+        #LinkCards {
+            background: var(--bs-white) !important;
+            color: var(--bs-black);
+        }
+        #Caminho_192 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_193 {
+            fill: var(--bs-white) !important;
+        }
+    }
+    #Cards09:hover {
+        background: var(--background-vendx02) !important;
+        .CardTexto {
+            color: var(--bs-white) !important;
+        }
+        #LinkCards {
+            background: var(--bs-white) !important;
+            color: var(--bs-black);
+        }
+        #Caminho_194 {
+            fill: var(--bs-white) !important;
+        }
+        #Caminho_195 {
+            fill: var(--bs-white) !important;
+        }
+        .Mpascards {
+            fill: var(--bs-white) !important;
+        }
+    }
+    #LinkCards {
+        font-weight: 700;
+        border-radius: 20px;
+    }
+    .CardTexto {
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 1rem;
+        color: var(--roxo-vendex);
+        font-weight: 700;
+    }
+/*Cards*/
+/*Parcerias / Clientes*/
+    #ListaImg {
+        gap: 0.5rem;
+    }
+    #ListaImg li {
+        border-radius: 15px;
+        width: 9rem;
+        height: 9rem;
+    }
+/*Parcerias / Clientes*/
+/*Sessao Numero*/
+    #NumerosSessao {
+        gap: 5rem;
+    }
+/*Sessao Numero*/
+
+
+.carousel-track {
+  display: flex;
+  width: fit-content;
+  transition: transform 0.5s ease-in-out;
+}
+
+.beneficio-item {
+  width: 200px;; /* 5 por vez */
+  padding: 10px;
+}
+.carousel-container {
+  overflow: hidden;
+  max-width: 1000px;
+}
+.card50 {
+  height: 151px !important;
+  width: 100% !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  flex-direction: row !important;
+  background: #FF5D18 !important;
+}
+.card50 p {
+  color: white !important;
+  font-size: 1rem;
+  line-height: 1.3;
+  text-align: center;
+  font-weight: 700;
+}

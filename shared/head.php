@@ -19,7 +19,7 @@
             <link rel="stylesheet" href="./css/mobileeeee.css">
         <!--Compartilhada-->
             <!--Index pagina principal-->
-                <link rel="stylesheet" href="./css/indeexxxxx.css">
+                <link rel="stylesheet" href="./css/indeeexxxxx.css">
             <!--Index pagina principal-->
     <!--css-->
     <!--Api js-->
