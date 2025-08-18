@@ -56,7 +56,7 @@
                             <!--Titulo-->
                             <!--Texto-->
                                 <span>
-                                    <p>A Vendex disponibiliza uma equipe de profissionais experientes e preparados para atendê-los em nossos diversos</p>
+                                    <p>A VmBrasil Proteção - Veicular disponibiliza uma equipe de profissionais experientes e preparados para atendê-los em nossos diversos</p>
                                     <p>canais, que você escolhe conforme a sua conveniência.</p>
                                 </span>
                             <!--Texto-->
@@ -71,21 +71,21 @@
                     <!--Cards-->
                         <div id="SessaoCards" class="d-flex justify-content-center container-md p-2">
                             <!--Consultoria-->
-                            <div id="Cards07" class="card bg-black d-flex justify-content-center align-items-center text-center w-50">
+                            <div id="Cards07" class="card  d-flex justify-content-center align-items-center text-center w-50">
                                 <a href="mailto:contato@vendexcompany.com.br" style="text-decoration: none !important;" href="http://" target="_blank" rel="noopener noreferrer">
                                     <br><br>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="141" height="110.786" viewBox="0 0 141 110.786" > 
                                         <g id="email-new" transform="translate(-2.25 -6.75)">
-                                            <path id="Caminho_189" data-name="Caminho 189" d="M87.857,97.393H12.321l-.013-76.01,57.577,39.86a5.036,5.036,0,0,0,5.73,0l57.564-39.838V67.179H143.25V16.821A10.085,10.085,0,0,0,133.179,6.75H12.321A10.08,10.08,0,0,0,2.25,16.821V97.393a10.085,10.085,0,0,0,10.071,10.071H87.857ZM122.1,16.821,72.75,50.984,23.4,16.821Z" transform="translate(0 0)" fill="#b56afc"></path>
-                                            <path id="Caminho_190" data-name="Caminho 190" d="M65.036,42.643A20.143,20.143,0,1,1,44.893,22.5,20.143,20.143,0,0,1,65.036,42.643Z" transform="translate(78.214 54.75)" fill="#b56afc"></path>
+                                            <path id="Caminho_189" data-name="Caminho 189" d="M87.857,97.393H12.321l-.013-76.01,57.577,39.86a5.036,5.036,0,0,0,5.73,0l57.564-39.838V67.179H143.25V16.821A10.085,10.085,0,0,0,133.179,6.75H12.321A10.08,10.08,0,0,0,2.25,16.821V97.393a10.085,10.085,0,0,0,10.071,10.071H87.857ZM122.1,16.821,72.75,50.984,23.4,16.821Z" transform="translate(0 0)" fill="#001F8F"></path>
+                                            <path id="Caminho_190" data-name="Caminho 190" d="M65.036,42.643A20.143,20.143,0,1,1,44.893,22.5,20.143,20.143,0,0,1,65.036,42.643Z" transform="translate(78.214 54.75)" fill="#001F8F"></path>
                                         </g>
                                     </svg>
                                     <div class="card-body">
                                         <span class="CardTexto">
-                                            <h5 class="card-title">E-MAIL</h5>
+                                            <h5 class="card-title text-black">E-MAIL</h5>
                                         </span>
                                         <span >
-                                            <p style="font-size: .8rem;" class="text-light" >contato@vendexcompany.com.br</p>
+                                            <p style="font-size: .8rem;" class="text-black" >contato@vendexcompany.com.br</p>
                                         </span>
                                     </div>
                                     <br>
@@ -93,22 +93,22 @@
                             </div>
                         <!--Consultoria-->
                         <!--Ads-->
-                            <div id="Cards08" class="card bg-black d-flex justify-content-center align-items-center text-center w-50">
+                            <div id="Cards08" class="card  d-flex justify-content-center align-items-center text-center w-50">
                                 <a href="https://api.whatsapp.com/send/?phone=5511930115834&text&type=phone_number&app_absent=0"  style="text-decoration: none !important;" target="_blank" rel="noopener noreferrer">
                                     <br><br>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="107.999" height="107.994" viewBox="0 0 107.999 107.994">
                                         <g id="bx-phone-call" transform="translate(-3 -3)">
                                             <path id="Caminho_191" data-name="Caminho 191" d="M73.961,86.9,84.794,76.075,70.829,62.11l-6.98,6.98a5.35,5.35,0,0,1-4.925,1.465c-.623-.13-15.347-3.3-24.311-12.262S22.481,34.606,22.351,33.983a5.393,5.393,0,0,1,1.465-4.925l6.98-6.98L16.833,8.113,6,18.938c.108,6.606,1.868,29.744,20.045,47.92C44.16,84.981,67.222,86.792,73.958,86.9Z" transform="translate(7.801 13.294)" fill="none"></path>
-                                            <path id="Caminho_192" data-name="Caminho 192" d="M81.658,110.994h.151a10.666,10.666,0,0,0,7.585-3.164l14.645-14.645a5.393,5.393,0,0,0,0-7.636l-21.6-21.6a5.393,5.393,0,0,0-7.636,0L66.2,72.556c-3.992-1.188-11.437-3.888-16.157-8.608s-7.42-12.168-8.608-16.157l8.608-8.608a5.393,5.393,0,0,0,0-7.636l-21.6-21.6a5.562,5.562,0,0,0-7.636,0L6.165,24.593A10.791,10.791,0,0,0,3,32.34c.126,7.69,2.16,34.4,23.209,55.448s47.758,23.08,55.448,23.2ZM24.63,21.4,38.594,35.368l-6.98,6.98a5.378,5.378,0,0,0-1.465,4.925c.13.623,3.3,15.347,12.262,24.311S66.1,83.716,66.722,83.846a5.368,5.368,0,0,0,4.925-1.465l6.98-6.98L92.591,89.365,81.759,100.19c-6.739-.115-29.8-1.922-47.913-20.045C15.669,61.972,13.909,38.835,13.8,32.232L24.626,21.407ZM100.2,51.593H111C111,23.891,90.086,3,62.344,3V13.8C84.279,13.8,100.2,29.694,100.2,51.593Z" transform="translate(0 0)" fill="#b56afc"></path>
-                                            <path id="Caminho_193" data-name="Caminho 193" d="M19.5,19.8c11.358,0,16.2,4.842,16.2,16.2H46.5c0-17.417-9.583-27-27-27Z" transform="translate(42.896 15.6)" fill="#b56afc"></path>
+                                            <path id="Caminho_192" data-name="Caminho 192" d="M81.658,110.994h.151a10.666,10.666,0,0,0,7.585-3.164l14.645-14.645a5.393,5.393,0,0,0,0-7.636l-21.6-21.6a5.393,5.393,0,0,0-7.636,0L66.2,72.556c-3.992-1.188-11.437-3.888-16.157-8.608s-7.42-12.168-8.608-16.157l8.608-8.608a5.393,5.393,0,0,0,0-7.636l-21.6-21.6a5.562,5.562,0,0,0-7.636,0L6.165,24.593A10.791,10.791,0,0,0,3,32.34c.126,7.69,2.16,34.4,23.209,55.448s47.758,23.08,55.448,23.2ZM24.63,21.4,38.594,35.368l-6.98,6.98a5.378,5.378,0,0,0-1.465,4.925c.13.623,3.3,15.347,12.262,24.311S66.1,83.716,66.722,83.846a5.368,5.368,0,0,0,4.925-1.465l6.98-6.98L92.591,89.365,81.759,100.19c-6.739-.115-29.8-1.922-47.913-20.045C15.669,61.972,13.909,38.835,13.8,32.232L24.626,21.407ZM100.2,51.593H111C111,23.891,90.086,3,62.344,3V13.8C84.279,13.8,100.2,29.694,100.2,51.593Z" transform="translate(0 0)" fill="#001F8F"></path>
+                                            <path id="Caminho_193" data-name="Caminho 193" d="M19.5,19.8c11.358,0,16.2,4.842,16.2,16.2H46.5c0-17.417-9.583-27-27-27Z" transform="translate(42.896 15.6)" fill="#001F8F"></path>
                                         </g>
                                     </svg>
                                     <div class="card-body">
                                         <span class="CardTexto">
-                                            <h5 class="card-title">Telefone</h5>
+                                            <h5 class="card-title text-black">Telefone</h5>
                                         </span>
                                         <span>
-                                            <p style="font-size: .8rem;" class="text-light">(11) 93011-5834</p>
+                                            <a style="font-size: .8rem;" class="text-black">(11) 93011-5834</a>
                                         </span>
                                     </div>
                                     <br>
