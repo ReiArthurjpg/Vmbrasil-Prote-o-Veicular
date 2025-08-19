@@ -29,7 +29,7 @@
                 <?php echo $headersecundario ?>
             <!--Header Primario-->
             <!--Apresentação-->
-                <section id="paddingprimario" style="padding: 5rem 0px 13rem 0px;" class="container-md d-flex justify-content-between" id="ContainerApresentacao">
+                <section id="paddingprimario" style="padding: 5rem 0px 13rem 0px;" class="container-md d-flex justify-content-between">
                     <!--Estrutura texto-->
                         <article id="Mobileprimeira2" class="d-flex flex-column text-white">
                             <!--Titulo-->

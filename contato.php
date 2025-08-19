@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Pagina sobre a empresa">
-    <title>Contato - Vendex</title>
+    <title>Contato - Vm Brasil ProteçãoVeicular</title>
     <!--Css/js principais-->
         <?php echo $headcss ?>
     <!--Css/js principais-->
