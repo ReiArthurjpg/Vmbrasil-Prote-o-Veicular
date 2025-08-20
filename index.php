@@ -537,20 +537,20 @@
                                         <div class="carousel-inner">
                                             <div class="carousel-item active">
                                                 <div class="d-flex justify-content-center align-items-center w-100">
-                                                    <img class="d-block w-50" src="./img/carro.webp" alt="First slide">
-                                                    <img class="d-block w-50" src="./img/carro2.webp" alt="First slide">
+                                                    <img class="d-block w-50" src="./img/1.png" alt="First slide">
+                                                    <img class="d-block w-50" src="./img/2.png" alt="First slide">
                                                 </div>
                                             </div>
                                             <div class="carousel-item">
                                                 <div class="d-flex justify-content-center align-items-center w-100">
-                                                    <img class="d-block w-50" src="./img/caminhao.webp" alt="First slide">
-                                                    <img class="d-block w-50" src="./img/caminhao2.webp" alt="First slide">
+                                                    <img class="d-block w-50" src="./img/3.png" alt="First slide">
+                                                    <img class="d-block w-50" src="./img/4.png" alt="First slide">
                                                 </div>
                                             </div>
                                             <div class="carousel-item">
                                                 <div class="d-flex justify-content-center align-items-center  w-100">
-                                                    <img class="d-block w-50" src="./img/motos.webp" alt="First slide">
-                                                    <img class="d-block w-50" src="./img/moto2.webp" alt="First slide">
+                                                    <img class="d-block w-50" src="./img/5.png" alt="First slide">
+                                                    <img class="d-block w-50" src="./img/6.png" alt="First slide">
                                                 </div>
                                             </div>
                                         </div>
