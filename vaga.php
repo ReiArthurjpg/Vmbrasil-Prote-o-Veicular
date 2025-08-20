@@ -49,7 +49,7 @@
     <!--Container principal das paginas estaticas-->  
     <main>
             <!--Equipe-->
-                <section class="p-5">
+                <section id="padding" class="p-5">
                     <article class="container-md">
                         <!--Texto-->
                         <div>
