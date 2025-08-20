@@ -55,7 +55,7 @@
                                                                 </li>
                                                             <!--Lista Drop-->
                                                             <li class="nav-item">
-                                                                <a class="nav-link text-white" href="#">Cases</a>
+                                                                <a class="nav-link text-white" href="./cases.php">Cases</a>
                                                             </li>
                                                             <li class="nav-item">
                                                                 <a class="nav-link text-white" href="./contato.php">Contato</a>
