@@ -143,6 +143,49 @@
                     </article>
                 </section>
             <!--Case de sucesso-->
+            <!--Case de sucesso-->
+                <section class="p-4">
+                    <article class="container-md">
+                        <!--Texto-->
+                        <div>
+                            <span class="d-flex flex-column align-items-center text-center">
+                                <!--Titulo-->
+                                    <h3 style="color: var(--roxo-vendex); font-weight: 750;">MOTO</h3>
+                                <!--Titulo-->
+                            </span>
+                            <br>
+                            <!--Cases-->
+                                <div>
+                                    <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" data-interval="5000">
+                                        <ol class="carousel-indicators">
+                                            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                                            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                                            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                                        </ol>
+                                        <div class="carousel-inner">
+                                            <div class="carousel-item active">
+                                                <div class="d-flex justify-content-center align-items-center w-100">
+                                                    <img class="d-block w-50" src="./img/5.png" alt="First slide">
+                                                    <img class="d-block w-50" src="./img/6.png" alt="First slide">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a class="carousel-control-prev" href="#carouselExampleIndicators2" role="button" data-slide="prev">
+                                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                            <span class="sr-only"></span>
+                                        </a>
+                                        <a class="carousel-control-next" href="#carouselExampleIndicators2" role="button" data-slide="next">
+                                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                            <span class="sr-only"></span>
+                                        </a>
+                                        </div>
+                                </div>
+                            <!--Cases-->
+                        </div>
+                        <!--Texto-->
+                    </article>
+                </section>
+            <!--Case de sucesso-->
         <br><br>
         <!--Formulario-->
             <?php echo $formulario ?>  
