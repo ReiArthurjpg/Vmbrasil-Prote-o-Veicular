@@ -85,7 +85,7 @@
                                             <h5 class="card-title text-black">E-MAIL</h5>
                                         </span>
                                         <span >
-                                            <p style="font-size: .8rem;" class="text-black" >contato@vendexcompany.com.br</p>
+                                            <p style="font-size: .8rem;" class="text-black" >administracao@vmbrasilpv.com</p>
                                         </span>
                                     </div>
                                     <br>
@@ -94,7 +94,7 @@
                         <!--Consultoria-->
                         <!--Ads-->
                             <div id="Cards08" class="card  d-flex justify-content-center align-items-center text-center w-50 cardscontato">
-                                <a href="https://api.whatsapp.com/send/?phone=5511930115834&text&type=phone_number&app_absent=0"  style="text-decoration: none !important;" target="_blank" rel="noopener noreferrer">
+                                <a href="https://wa.me/558299940437?text=Oi%2C%20tudo%20bem%3F%20Vi%20seu%20an%C3%BAncio%20no%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es."  style="text-decoration: none !important;" target="_blank" rel="noopener noreferrer">
                                     <br><br>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="107.999" height="107.994" viewBox="0 0 107.999 107.994">
                                         <g id="bx-phone-call" transform="translate(-3 -3)">
@@ -108,7 +108,7 @@
                                             <h5 class="card-title text-black">Telefone</h5>
                                         </span>
                                         <span>
-                                            <a style="font-size: .8rem;" class="text-black">(11) 93011-5834</a>
+                                            <a style="font-size: .8rem;" class="text-black">(82) 9994-0437</a>
                                         </span>
                                     </div>
                                     <br>
@@ -138,7 +138,7 @@
                         <!--Automações--> 
                         <!--Automações-->
                             <div id="Cards09" class="card d-flex justify-content-center align-items-center text-center w-50 cardscontato">
-                                <a href="https://www.google.com/maps/place/Vendex+Company/@-22.875174,-47.033502,11z/data=!4m6!3m5!1s0x94c8c5cef714d03f:0xbeac7828c442242e!8m2!3d-22.8751736!4d-47.0335019!16s%2Fg%2F11y1d1vy9s?hl=pt-BR&entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D" style="text-decoration: none !important;" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.google.com/maps/dir//R.+Fausto+Joaquim+Luciano,+153+-+Sen.+Teotônio+Vilela,+Arapiraca+-+AL,+57311-550/@-9.7456921,-36.7427737,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x705d5a6e4b45369:0x9e21fc3d30abb80a!2m2!1d-36.6603718!2d-9.745702?entry=ttu&g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D" style="text-decoration: none !important;" target="_blank" rel="noopener noreferrer">
                                     <br><br> 
                                     <svg class="Mpascards" xmlns="http://www.w3.org/2000/svg" width="105" height="105" viewBox="0 0 24 24" style="fill: #001F8F;transform: ;msFilter;">
                                         <path d="m12 17 1-2V9.858c1.721-.447 3-2 3-3.858 0-2.206-1.794-4-4-4S8 3.794 8 6c0 1.858 1.279 3.411 3 3.858V15l1 2zM10 6c0-1.103.897-2 2-2s2 .897 2 2-.897 2-2 2-2-.897-2-2z"></path>
@@ -149,8 +149,8 @@
                                             <h5 class="card-title text-black">Endereço</h5>
                                         </span>
                                         <span style="font-size: .7rem;">
-                                            <p class="text-black">R. Benedito Ferreira da Fonseca, 57 – Jardim</p>
-                                            <p class="text-black">Conceição, Campinas – SP, 13091-030</p>
+                                            <p class="text-black">R. Fausto Joaquim Luciano, 153 - Sen. Teotônio</p>
+                                            <p class="text-black">Vilela, Arapiraca - AL, 57311-550</p>
                                         </span>
                                     </div>
                                     <br>
